@@ -1,1 +1,1 @@
-# fe-git-hooks
+# fe-hooks
