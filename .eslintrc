@@ -114,6 +114,7 @@
         "space-unary-word-ops": 0,
         "max-nested-callbacks": [2, 5],
         "one-var": 0,
-        "wrap-regex": 0
+        "wrap-regex": 0,
+        "eol-last": 1
     }
 }

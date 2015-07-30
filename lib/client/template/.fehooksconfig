@@ -7,7 +7,7 @@
   "check_items":{
     "lint": "{{checkLint}}",
     "page_speed": "{{checkPageSpeed}}"
-  }
+  },
   "lint": {
     "js": {
       "engine": "eslint",
